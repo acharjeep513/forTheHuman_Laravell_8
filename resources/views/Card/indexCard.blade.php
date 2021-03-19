@@ -18,7 +18,7 @@
                         <p style="margin-right: 40px;width:300px">
                           {{$activity->details}}                  
                         </p>
-                        <button name="add" type="submit" class="form-control  btn btn-danger"> <i class="fas fa-cart-plus"></i >READ</button>
+                       
                     </h5>
                 </div>
                 

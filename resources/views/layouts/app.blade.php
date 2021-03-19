@@ -59,9 +59,7 @@
                                     <a class="nav-link" href="{{ route('register') }}" style="margin-top: 50px;font-weight: bold;font-size: 20px">{{ __('Register') }}</a>
                                 </li>
                             @endif
-                            <li>
-                                {{ Auth::user()->name }}
-                            </li>
+                           
                         @else
                         
                             
